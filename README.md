@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahidhossain&theme=dark&background=094746&border=74BFDD&stroke=9ADD4A&dates=69DD38)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
