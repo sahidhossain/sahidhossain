@@ -29,21 +29,21 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <h2>
   💬 Let's Connect and have a Chat!
 </h2>
-<a href='mailto:mohammadsahid786cse@gmail.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'></a>
-<a href='https://github.com/sahidhossain'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-<a href='https://dev.to/sahidhossain'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'></a>
-<a href='https://hashnode.com/@sahidhossain'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'></a>
-<a href='https://www.linkedin.com/in/mohammad-sahid/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-<a href='https://www.facebook.com/sahidhossain786/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
-<a href='https://www.instagram.com/mohammad.sahid.devil/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
-<a href='https://twitter.com/Md_Sahid_786'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
-<a href='https://codepen.io/sahidhossain'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'></a>
-<a href='https://stackoverflow.com/users/10231226/mohammad-sahid'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>
-<a href='https://www.reddit.com/user/sahid_hossain'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'></a>
-<a href='https://leetcode.com/sahidhossain/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a>
+<a href='mailto:mohammadsahid786cse@gmail.com'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'></a>
+<a href='https://github.com/sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+<a href='https://dev.to/sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'></a>
+<a href='https://hashnode.com/@sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'></a>
+<a href='https://www.linkedin.com/in/mohammad-sahid/'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+<a href='https://www.facebook.com/sahidhossain786/'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
+<a href='https://www.instagram.com/mohammad.sahid.devil/'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
+<a href='https://twitter.com/Md_Sahid_786'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+<a href='https://codepen.io/sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'></a>
+<a href='https://stackoverflow.com/users/10231226/mohammad-sahid'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>
+<a href='https://www.reddit.com/user/sahid_hossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'></a>
+<a href='https://leetcode.com/sahidhossain/'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<h3 align="left">Statistics & Language:</h3>
+<h4 align="left">Statistics & Language:</h4>
 <p align="center">
 <a href="https://github.com/sahidhossain">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=sahidhossain&theme=noctis_minimus&show_icons=true" />
@@ -54,7 +54,7 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sahidhossain" /> </p> -->
 <!-- ![Profile views](https://gpvc.arturio.dev/sahidhossain)   -->
 
-<h3 align="left">Streak statistics & Trophies:</h3>
+<h4 align="left">Streak statistics & Trophies:</h4>
 <p align="center">
 <a href="https://github.com/sahidhossain">
     <img height="300px" src="https://metrics.lecoq.io/sahidhossain" />
@@ -64,14 +64,14 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 </a>
 </p>
 
-<h3 align="left">Activity:</h3>
+<h4 align="left">Activity:</h4>
 <p align="center">
 <a href="https://github.com/sahidhossain">
   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=sahidhossain" />
 </a>
 </p>
 
-<h3 align="left">Achievement:</h3>
+<h4 align="left">Achievement:</h4>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ---
 
