@@ -56,8 +56,14 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 </p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sahidhossain" /> </p> -->
-
-<h3 align="left">Trophis Story:</h3>
+<!-- ![Profile views](https://gpvc.arturio.dev/sahidhossain)   -->
+<h3 align="left">Statistics & Language:</h3>
+<p align="center">
+<a href="https://github.com/sahidhossain">
+  <img height="175px" src="https://github-profile-trophy.vercel.app/?username=sahidhossain)](https://github.com/sahidhossain" />
+  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=sahidhossain" />
+</a>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahidhossain)](https://github.com/sahidhossain)
 
@@ -67,7 +73,7 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sahidhossain)  
 
-![Profile views](https://gpvc.arturio.dev/sahidhossain)  
+
 
 
 ==========================================================================
