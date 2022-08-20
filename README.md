@@ -20,15 +20,14 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <img src="https://github.com/sahidhossain/sahidhossain/blob/main/github-contribution-grid-snake.svg" />
 </p>
 
-![Snake animation](https://github.com/sahidhossain/sahidhossain/blob/main/github-contribution-grid-snake.svg)
-
+<p align="center">
 - 🔭 I’m currently working on https://www.linkedin.com/company/banglalink/mycompany/verification/ 
 - 🌱 I’m currently learning Python & Data Analytics 
 - 🤔 I’m looking for help with Data Science mates 
 - 💬 Ask me about PHP, Java, Shell, SQL and BI  
 - 📫 How to reach me: All the link is given 
 - ⚡ Fun fact: Love to watch movies, songs.  
-
+</p>
 
 <h2>
   💬 Let's Connect and have a Chat!
