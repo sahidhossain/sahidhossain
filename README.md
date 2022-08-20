@@ -17,7 +17,7 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 </p>
 
  
-<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
+<h3> 🚀 &nbsp;Tools and Languages I Have Used and Learned</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" title="python" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" title="bash" width="40" height="40"/>
