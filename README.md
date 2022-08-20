@@ -42,9 +42,6 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <a href='https://www.reddit.com/user/sahid_hossain'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'></a>
 <a href='https://leetcode.com/sahidhossain/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a>
 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <h3 align="left">Statistics & Language:</h3>
 <p align="center">
@@ -56,6 +53,7 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sahidhossain" /> </p> -->
 <!-- ![Profile views](https://gpvc.arturio.dev/sahidhossain)   -->
+
 <h3 align="left">Streak statistics & Trophies:</h3>
 <p align="center">
 <a href="https://github.com/sahidhossain">
@@ -66,16 +64,15 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 </a>
 </p>
 
+<h3 align="left">Activity:</h3>
 <p align="center">
 <a href="https://github.com/sahidhossain">
   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=sahidhossain" />
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahidhossain)  
-
-![GitHub metrics](https://metrics.lecoq.io/sahidhossain)
-
+<h3 align="left">Achievement:</h3>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
