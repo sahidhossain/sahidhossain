@@ -20,32 +20,33 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" title="python" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" title="bash" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" title="php" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" title="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" title="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" title="bootstrap" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" title="css3" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" title="mysql" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" width="40" height="40"/>
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>       
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" title="linux" width="40" height="40"/>       
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" title="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" title="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" title="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg" title="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg" title="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" title="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="sqlite" width="40" height="40"/> </a>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" title="sqlite" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" title="tableau" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftexcel.svg" title="tableau" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/teradata.svg" title="tableau" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftexcel.svg" title="excel" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/teradata.svg" title="teradata" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microstrategy.svg" title="Microstrategy" width="40" height="40" />
- </p>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eclipseide.svg" title="eclipse" width="40" height="40" />
+</p>
+
 
 
 
