@@ -9,7 +9,9 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQEmqbSn-zerQQ/profile-displaybackgroundimage-shrink_200_800/0/1660967722906?e=1666224000&v=beta&t=A4y05wKVQWIATi9jqjsXAlpn39p3nVsQ_P1KT0rrckg" />
 </p>
 
-I'm a software & data engineer, currently working as a data engineer at Banglalink (Veon Group Subsidiary at Bangladesh). Previously working as a software engineer.  My specializations are within the area Software development, Data Engineering, Telecommunication. Creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, Java, SQL, Shell, Tableau & Microstrategy(BI TOOL).
+<p align="justify">
+I'm a software & data engineer, currently working as a data engineer at Banglalink (Veon Group Subsidiary at Bangladesh). Previously working as a software engineer.  My specializations are within the area Software development, Data Engineering, Telecommunication. Creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, Java, SQL, Shell, Tableau & Microstrategy(BI tools).
+</p>
 
 Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 
