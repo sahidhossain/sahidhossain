@@ -47,10 +47,11 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+<h3 align="left">Statistics & Language:</h3>
 <p align="center">
 <a href="https://github.com/sahidhossain">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=sahidhossain&theme=noctis_minimus&show_icons=true" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidhossain&theme=noctis_minimus" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidhossain&theme=noctis_minimus&layout=compact" />
 </a>
 </p>
 
