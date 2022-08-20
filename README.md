@@ -1,8 +1,7 @@
-<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header"/>
 </p>
-
+<!--
 <p align="center">
 <h1 align="center">I'm Mohammad Sahid Hossain</h1>
 <h3 align="center">Software Engineer | Data Engineer</h3>
@@ -17,7 +16,7 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 </p>
 
  
-<h3> 🚀 &nbsp;Tools and Languages I Have Used and Learned:</h3>
+<h3> 🚀 &nbsp;Tools and languages I have used and learned:</h3>
 <p align="justify">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" title="python" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" title="bash" width="40" height="40"/>
@@ -51,10 +50,10 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 <img src="https://github.com/sahidhossain/sahidhossain/blob/main/github-contribution-grid-snake.svg" />
 </p>
 
-<h3> 🚀 Current Status:</h3>
+<h3> 🚀 Current status of myself:</h3>
 <p align="center">
 <ul>
-<li>🔭 I’m currently working on https://www.linkedin.com/company/banglalink/mycompany/verification/</li> 
+<li>🔭 I’m currently working at Banglalink</li> 
 <li>🌱 I’m currently learning Python & Data Analytics </li>
 <li>🤔 I’m looking for help with Data Science mates </li>
 <li>💬 Ask me about PHP, Java, Shell, SQL and BI  </li>
@@ -64,7 +63,7 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 </p>
 
 <h2>
-  💬 Let's Connect and have a Chat!
+  💬 Let's connect and have a chat!
 </h2>
 <a href='mailto:mohammadsahid786cse@gmail.com'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
@@ -79,7 +78,7 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.reddit.com/user/sahid_hossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://leetcode.com/sahidhossain/'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈 &nbsp;My gitHub history!</h2>
 <h4 align="left">Statistics & Language:</h4>
 <p align="center">
 <a href="https://github.com/sahidhossain">
@@ -101,7 +100,7 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 </a>
 </p>
 
-<h4 align="left">Activity:</h4>
+<h4 align="left">Contribution graph:</h4>
 <p align="center">
 <a href="https://github.com/sahidhossain">
   <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=sahidhossain" />
@@ -112,40 +111,36 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;A Little bit about Me and my Interests</h2>
 
 ```yaml
 name: Mohammad Sahid Hossain
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+located_in: Dhaka,Bangladesh
+current_job: Data Engineer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in Computer Science & Engineering",
   ]
-company: Soulber
+company: Banglalink (Veon Group's Subsidiary at Bangladesh
 
 fields_of_interests:
   [
-    "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
+    "Data Analyst",
+    "Data Engineering",
     "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Senior Executive at Business Intelligence team on Banglalink",
+    "Operation Engineer at Ericsson",
+    "Software Engineer at RAFM on Banglalink",
+    "Software Intern at MFASIA",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker, Data Science, Python"]
+hobbies: ["Gaming", "Cinema", "Movie"]
 ```
   
 ---  
