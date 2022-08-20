@@ -21,7 +21,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
+name: Mohammad Sahid Hossain
 located_in: Montreal, Quebec
 current_job: Full Stack Developer
 education:
