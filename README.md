@@ -29,8 +29,8 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <h2>
   💬 Let's Connect and have a Chat!
 </h2>
-<a href='mailto:mohammadsahid786cse@gmail.com'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'></a>
-<a href='https://github.com/sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+&nbsp;<a href='mailto:mohammadsahid786cse@gmail.com'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'></a>
+&nbsp;<a href='https://github.com/sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href='https://dev.to/sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'></a>
 <a href='https://hashnode.com/@sahidhossain'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'></a>
 <a href='https://www.linkedin.com/in/mohammad-sahid/'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
