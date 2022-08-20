@@ -6,7 +6,7 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 
 Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 
-![Snake animation](https://github.com/sahidhossain/sahidhossain/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sahidhossain/sahidhossain/blob/main/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on https://www.linkedin.com/company/banglalink/mycompany/verification/ 
 - 🌱 I’m currently learning Python & Data Analytics 
