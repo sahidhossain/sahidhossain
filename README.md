@@ -44,8 +44,10 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftexcel.svg" alt="tableau" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/teradata.svg" alt="tableau" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microstrategy.svg" alt="Microstrategy" title="this will be displayed as a tooltip" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microstrategy.svg" title="Microstrategy" width="40" height="40" />
  </p>
+
+
 
 
 
