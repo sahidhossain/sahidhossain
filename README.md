@@ -65,11 +65,16 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/sahidhossain">
+  <img height="150px" src="https://activity-graph.herokuapp.com/graph?username=sahidhossain" />
+  <img height="100px" src="https://metrics.lecoq.io/sahidhossain" />
+</a>
+</p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahidhossain)  
 
-![GitHub metrics](https://metrics.lecoq.io/sahidhossain)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sahidhossain)  
+![GitHub metrics](https://metrics.lecoq.io/sahidhossain)
 
 
 
