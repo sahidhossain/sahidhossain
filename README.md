@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=150&section=header"/>
 </p>
 
-<div id="gallery-text-left" style="float:left; width:50%">
+<div style="float:left; width:50%">
 <p align="center">
 <h1 align="center">I'm Mohammad Sahid Hossain</h1>
 <h3 align="center">Software Engineer | Data Engineer</h3>
