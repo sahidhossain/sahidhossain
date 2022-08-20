@@ -57,7 +57,7 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sahidhossain" /> </p> -->
 <!-- ![Profile views](https://gpvc.arturio.dev/sahidhossain)   -->
-<h3 align="left">Statistics & Language:</h3>
+<h3 align="left">Streak statistics & Trophies:</h3>
 <p align="center">
 <a href="https://github.com/sahidhossain">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=sahidhossain" />
