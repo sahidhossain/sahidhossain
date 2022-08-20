@@ -65,8 +65,6 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahidhossain)](https://github.com/sahidhossain)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahidhossain)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sahidhossain)  
