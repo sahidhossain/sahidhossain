@@ -1,4 +1,6 @@
-<style>#forkongithub a{background:#000;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#c11;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#fff;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:fixed;display:block;top:0;left:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;left:-60px;transform:rotate(-45deg);-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-o-transform:rotate(-45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}</style><span id="forkongithub"><a href="https://github.com/codepo8/css-fork-on-github-ribbon">Fork me on GitHub</a></span>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Sahid Hossain</h1>
 <h3 align="center">Software Engineer | Data Engineer</h3>
@@ -18,6 +20,10 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 - 📫 How to reach me: All the link is given 
 - ⚡ Fun fact: Love to watch movies, songs.  
 
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sahidhossain)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sahidhossain)  
@@ -53,13 +59,8 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 
 
 ==========================================================================
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sahidhossain/">
