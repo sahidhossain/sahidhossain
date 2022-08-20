@@ -17,8 +17,8 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 </p>
 
  
-<h3> 🚀 &nbsp;Tools and Languages I Have Used and Learned</h3>
-<p align="left">
+<h3> 🚀 &nbsp;Tools and Languages I Have Used and Learned:</h3>
+<p align="justify">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" title="python" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg" title="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" title="php" width="40" height="40"/>
@@ -47,31 +47,18 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eclipseide.svg" title="eclipse" width="40" height="40" />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
-
 <p align="center">
 <img src="https://github.com/sahidhossain/sahidhossain/blob/main/github-contribution-grid-snake.svg" />
 </p>
 
+<h3> 🚀 Current Status:</h3>
 <p align="center">
 <ul>
 <li>🔭 I’m currently working on https://www.linkedin.com/company/banglalink/mycompany/verification/</li> 
 <li>🌱 I’m currently learning Python & Data Analytics </li>
 <li>🤔 I’m looking for help with Data Science mates </li>
 <li>💬 Ask me about PHP, Java, Shell, SQL and BI  </li>
-<li>📫 How to reach me: All the link is given </li>
+<li>📫 How to reach me: All the link is given below(gmail: mohammadsahid786cse@gmail.com) </li>
 <li>⚡ Fun fact: Love to watch movies, songs</li>
 </ul>  
 </p>
