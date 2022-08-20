@@ -54,7 +54,7 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sahidhossain" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sahidhossain" /> </p> -->
 
 <h3 align="left">Trophis Story:</h3>
 
