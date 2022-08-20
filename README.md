@@ -49,8 +49,8 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <p align="center">
 <a href="https://github.com/sahidhossain">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sahidhossain&theme=noctis_minimus&show_icons=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidhossain&theme=noctis_minimus&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=sahidhossain&theme=noctis_minimus&show_icons=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidhossain&theme=noctis_minimus&layout=compact" />
 </a>
 </p>
 
