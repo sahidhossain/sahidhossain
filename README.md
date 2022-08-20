@@ -11,10 +11,14 @@
 </p>
 
 <p align="justify">
-I'm a software & data engineer, currently working as a data engineer at Banglalink (Veon Group Subsidiary at Bangladesh). Previously working as a software engineer.  My specializations are within the area Software development, Data Engineering, Telecommunication. Creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, Java, SQL, Shell, Tableau & Microstrategy(BI tools).
+I'm a software & data engineer, currently working as a data engineer at Banglalink (Veon Group Subsidiary at Bangladesh). Previously working as a software engineer.  My specializations are within the area Software development, Data Engineering, Telecommunication. Creating technology to elevate people, and building community.
 </p>
 
 Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
+
+<p align="center">
+<img src="https://github.com/sahidhossain/sahidhossain/blob/main/github-contribution-grid-snake.svg" />
+</p>
 
 ![Snake animation](https://github.com/sahidhossain/sahidhossain/blob/main/github-contribution-grid-snake.svg)
 
