@@ -42,7 +42,12 @@ I'm a software & data engineer, currently working as a data engineer at Banglali
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftexcel.svg" alt="tableau" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/teradata.svg" alt="tableau" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microstrategy.svg" alt="Microstrategy" title="this will be displayed as a tooltip" width="40" height="40" />
  </p>
+
+
 
 
 
