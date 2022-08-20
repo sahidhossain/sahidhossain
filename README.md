@@ -60,8 +60,8 @@ Skills: Python / PHP / SHELL / SQL / Data Visualization / Data Engineering
 <h3 align="left">Streak statistics & Trophies:</h3>
 <p align="center">
 <a href="https://github.com/sahidhossain">
-  <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=sahidhossain&theme=horizon" />
-  <img height="300px" src="https://metrics.lecoq.io/sahidhossain" />
+  <img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=sahidhossain&theme=horizon" />
+  <img height="350px" src="https://metrics.lecoq.io/sahidhossain" />
   <!-- <img height="100px" src="https://github-profile-trophy.vercel.app/?username=sahidhossain" /> -->
 </a>
 </p>
